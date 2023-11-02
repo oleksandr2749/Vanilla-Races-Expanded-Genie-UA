@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_Antibiotics.label>антибіотики</VRE_Antibiotics.label>
+  <VRE_Antibiotics.description>Препарат для зміцнення імунної системи після перенесених інфекцій. Допомагає проти таких хвороб, як малярія і чума, а також інфекцій, спричинених зараження ран. Діє протягом 12 годин.\n\nЦей препарат не запобігає новим інфекціям. Він лікує існуючі інфекції - навіть ті, які ще не виявлені, однак надмірне використання антибіотиків може тимчасово знизити їхню ефективнітсь.</VRE_Antibiotics.description>
+  <VRE_Antibiotics.ingestible.ingestCommandString>Take {0}</VRE_Antibiotics.ingestible.ingestCommandString>
+  <VRE_Antibiotics.ingestible.ingestReportString>Taking {0}.</VRE_Antibiotics.ingestible.ingestReportString>
+
+
+</LanguageData>

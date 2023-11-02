@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Antibiotics Addiction -->
+
+  <VRE_Chemical_Antibiotics.label>антибіотики</VRE_Chemical_Antibiotics.label>
+  <VRE_Chemical_Antibiotics.description>Через залежність від антибіотиків ця людина потребує регулярного їх прийому, щоб уникнути симптомів відміни.</VRE_Chemical_Antibiotics.description>
+
+
+</LanguageData>

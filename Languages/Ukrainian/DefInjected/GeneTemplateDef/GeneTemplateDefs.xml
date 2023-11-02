@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Aptitudes -->
+
+  <VRE_AptitudePhenomenal.label>геніальність {0}</VRE_AptitudePhenomenal.label>
+  <VRE_AptitudePhenomenal.description>Здібності носія в {0} збільшуються на 12. Здібності діють як компенсація за рівень навичок. Крім того, до {0} додається рівень запалу.</VRE_AptitudePhenomenal.description>
+
+
+</LanguageData>
